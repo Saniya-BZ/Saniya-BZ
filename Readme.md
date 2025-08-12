@@ -23,7 +23,7 @@
 ---
 
 ## 💼 Experience
-**AI/ML Engineer — Zenvinnovations (Sept 2024 – July 2025)**  
+**AI/ML Engineer — ZenVInnovations (Sept 2024 – July 2025)**  
 - Built & deployed a **full-stack RFID-based hotel management system** with Arduino dashboards & AI chatbot support  
 - Fine-tuned **Qwen2B** and deployed on VertexAI (GCP) & AWS SageMaker  
 - Designed a **psychometric NLP platform** using Harrison Assessment principles  

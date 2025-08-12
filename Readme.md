@@ -71,13 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Saniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saniya-BZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya-BZ&layout=compact&theme=radical)
-
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saniya-b-26b59b25b)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Saniya-BZ)  

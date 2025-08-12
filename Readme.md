@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🤖 Skilled in **Generative AI, NLP, and AI Agentic Workflows**
 - 🛠 Built solutions ranging from **full-stack IoT hotel management** to **psychometric NLP platforms**
-- 🌱 Learning **Spring Boot**, **LangGraph**, and **CrewAI**
+- 🌱 Learning **Agentic AI** using **LangChain** and **LangGraph**
 - 🏆 Multiple **Hackathon Winner** and **Top University Rank Holder**
 
 

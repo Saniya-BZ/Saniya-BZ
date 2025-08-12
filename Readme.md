@@ -91,13 +91,14 @@
 - 🥇 Winner — Hack-The-Verse (National 24h Hackathon)  
 - 🥈 Runner-up — Global Design Thinking Ideathon (GDT-23)  
 - 🏅 Top 5 — Technovate for India (Times of India)  
-- 🎓 Top 4 Rank — Academics across Osmania University
-nect with Me
+- 🎓 Top 4 Rank — Academics across Osmania University  
+
+---
+
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saniya-b-26b59b25b)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Saniya-BZ)  
 📧 **Email:** [saniyabinthzubair@gmail.com](mailto:saniyabinthzubair@gmail.com)
 
 ---
-
 ⭐ *From [Saniya-BZ](https://github.com/Saniya-BZ)*
-

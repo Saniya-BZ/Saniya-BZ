@@ -35,12 +35,6 @@
 
 ---
 
-## 📂 Featured Projects
-- **[BlogChain](https://github.com/Saniya-BZ/BlogChain)** → AI-powered blog generation API with LangGraph & FastAPI  
-- **[YourDR](https://github.com/Saniya-BZ/YourDR)** → Fine-tuned Mistral-7B for Healthcare QA  
-- **[DeepQuant](https://github.com/Saniya-BZ/DeepQuant)** → AI-powered learning platform with NLP + Harrison Assessments  
-
----
 
 ## 🏆 Achievements
 - 🥇 Winner — Hack-The-Verse (National 24h Hackathon)  

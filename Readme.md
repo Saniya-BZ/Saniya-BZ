@@ -85,6 +85,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+---
 
 ## 🏆 Achievements
 - 🥇 Winner — Hack-The-Verse (National 24h Hackathon)  
@@ -97,5 +98,6 @@ nect with Me
 📧 **Email:** [saniyabinthzubair@gmail.com](mailto:saniyabinthzubair@gmail.com)
 
 ---
+
 ⭐ *From [Saniya-BZ](https://github.com/Saniya-BZ)*
 
